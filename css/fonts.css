@@ -1,0 +1,25 @@
+/*Our fonts*/
+@font-face {
+    font-family: SixCaps;
+    src: url("../font/SixCaps.ttf");
+}
+
+@font-face {
+    font-family: Oswald-Regular;
+    src: url("../font/Oswald-Regular.ttf");
+}
+
+@font-face {
+    font-family: romeral;
+    src: url("../font/romeral.otf");
+}
+
+@font-face {
+    font-family: FePIrm27C;
+    src: url("../font/FePIrm27C.otf");
+}
+
+@font-face {
+    font-family: SansitaOne;
+    src: url("../font/SansitaOne.ttf");
+}
